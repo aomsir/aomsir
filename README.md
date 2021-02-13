@@ -24,5 +24,5 @@ Languages and Tools:
 
 
 - 🔭 I’m currently studying on College
-- 🌱 I’m currently learning Software Engineer
+- 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me:[![Mail Badge](https://img.shields.io/badge/-info@say521.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11812109@mail.sustech.edu.cn)](mailto:info@say521.cn)
