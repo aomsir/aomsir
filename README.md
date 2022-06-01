@@ -16,8 +16,8 @@
 Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/golang/golang.png" alt="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="C"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Golang"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="Swift"></code>
 
 
 
@@ -26,4 +26,4 @@ Languages and Tools:
 
 - 🔭 I’m currently studying on College
 - 🌱 I’m currently learning Software Engineering
-- 📫 How to reach me:[![Mail Badge](https://img.shields.io/badge/-info@say521.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11812109@mail.sustech.edu.cn)](mailto:info@say521.cn)
+- 📫 How to reach me:[![Mail Badge](https://img.shields.io/badge/-info@say521.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:info@say521.cn)](mailto:info@say521.cn)
