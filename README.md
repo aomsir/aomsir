@@ -1,4 +1,4 @@
-## Hey 👋, This is 奥秘Sir
+## Hey 👋, This is Aomsir
 
 [![Mail Badge](https://img.shields.io/badge/-info@say521.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11812109@mail.sustech.edu.cn)](mailto:info@say521.cn) [![Github Badge](https://img.shields.io/badge/-aomsir-grey?style=flat&logo=github&logoColor=white&link=https://github.com/aomsir/)](https://www.github.com/aomsir/)
 
