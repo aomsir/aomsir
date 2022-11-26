@@ -7,7 +7,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ryyyc alt=ryyyc /> </p>
 
 <a href="https://github.com/aomsir">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aomsir&show_icons=true&include_all_commits=true" />
+  <img align="center" alt="GitHub States" src="https://github-readme-stats.vercel.app/api?username=aomsir&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/aomsir">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aomsir&layout=compact" />
