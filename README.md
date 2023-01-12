@@ -4,7 +4,7 @@
 
 ## Some of my Github Stats
 
-<p align=left> <img src=[https://komarev.com/ghpvc/?username=ryyyc](https://komarev.com/ghpvc/?username=aomsir) alt=Aomsir /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=aomsir alt=Aomsir /> </p>
 
 <!-- <a href="https://github.com/aomsir">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aomsir&show_icons=true&include_all_commits=true" />
