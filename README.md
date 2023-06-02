@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://blog.say521.cn](https://blog.say521.cn)
 
-- 📒 I regular take notes on [https://www.yuque.com/aomsir/study](学习知识库📒)
+- 📒 I regular take notes on [学习知识库📒](https://www.yuque.com/aomsir/study)
 
 - 💬 Ask me about **Java、Docker and React**
 
