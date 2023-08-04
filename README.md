@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aomsir&label=Profile%20views&color=0e75b6&style=flat" alt="aomsir" /> </p>
 
-- 🌱 I’m currently learning **RocketMQ**
+- 🌱 I’m currently learning **Dubbo、RocketMQ**
 
 - 📝 I regularly write articles on [https://blog.say521.cn](https://blog.say521.cn)
 
