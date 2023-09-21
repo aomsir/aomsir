@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Dubbo、RocketMQ**
 
-- 📝 I regularly write articles on [https://blog.say521.cn](https://blog.say521.cn)
+- 📝 I regularly write articles on [https://blog.say521.cn](https://blog.csdn.net/qq_43266723)
 
 - 📒 I regular take notes on [学习知识库📒](https://www.yuque.com/aomsir/study)
 
-- 💬 Ask me about **Java、Docker and React**
+- 💬 Ask me about **Dubbo、Docker and React**
 
 - 📫 How to reach me **info@say521.cn**
 
