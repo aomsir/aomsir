@@ -1,15 +1,9 @@
 <h1 align="left">Hi 👋, I'm Aomsir</h1>
-<h3 align="left">A passionate backend developer from China</h3>
+<h3 align="left">A developer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aomsir&label=Profile%20views&color=0e75b6&style=flat" alt="aomsir" /> </p>
 
-- 🌱 I’m currently learning **Dubbo、RocketMQ**
-
-- 📝 I regularly write articles on [https://blog.say521.cn](https://blog.csdn.net/qq_43266723)
-
-- 📒 I regular take notes on [学习知识库📒](https://www.yuque.com/aomsir/)
-
-- 💬 Ask me about **Dubbo、Docker and React**
+- 🌱 I’m currently learning **Frontend**
 
 - 📫 How to reach me **info@say521.cn**
 
@@ -34,12 +28,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
   </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
-  </a> 
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="55" height="55"/> 
-  </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="55" height="55"/> 
   </a> 
   
 </p>
